@@ -1,11 +1,11 @@
 # Ecoleta---NLW
-Projeto desenvolvido durante a Next Level Week
+Project developed during the Next Level Week of Rocketseat
 
-Tecnologias usadas: 
-  React
-  React Native
-  NodeJs
-  Typescript
+## Tools
+- React
+- React Native
+- NodeJs
+- Typescript
   
   
  

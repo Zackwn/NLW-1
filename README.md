@@ -2,14 +2,6 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Soonas/ecoleta">
-  <img alt="Made by Soonas" src="https://img.shields.io/badge/made%20by-Soonas-brightgreen">
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-  <img alt="Repository size" src="https://img.shields.io/github/stars/Soonas/Ecoleta?style=social">
-</p>
-
-
 ## 💻 Projeto
 
 Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. Com o objetivo de conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
@@ -28,11 +20,6 @@ Esse projeto foi desenvolvido pelas seguintes tecnologias:
 - [TypeScript][typescript]
 - [Express][express]
 - [JavaScript][javascript]
-- [Nunjunks][nunjunks]
-
-## Layout
-
-Para ter acesso ao layout use [Figma][figma].
 
 ## Como Usar
 

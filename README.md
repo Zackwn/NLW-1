@@ -16,10 +16,11 @@ Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambi
 
 Esse projeto foi desenvolvido pelas seguintes tecnologias: 
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [Express][express]
-- [JavaScript][javascript]
+- Node.js
+- TypeScript
+- Express
+- ReactJS
+- React Native
 
 ## Como Usar
 

@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido pelas seguintes tecnologias:
 
 ## Como Usar
 
-Para clonar e rodar essa aplicação será necessário [Git][git] , [Node.js][nodejs] + [Yarn][yarn] ou [Npm][npm] instalados no seu computador.
+Para clonar e rodar essa aplicação será necessário [Git](https://git-scm.com/downloads) , [Node.js](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/) ou [Npm](https://www.npmjs.com/) instalados no seu computador.
 
 No seu terminal digite o comando:
 

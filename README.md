@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-Ecoleta é um projeto desenvolvido com base na semana internacional do meio ambiente. Com o objetivo de conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
+**Ecoleta** é um projeto desenvolvido com base na semana internacional do meio ambiente. Com o objetivo de conectar pessoas a empresas que coletam resíduos específicos, como lâmpadas, baterias, óleo de cozinha etc.
  ## 
 
 <h1 align="center">

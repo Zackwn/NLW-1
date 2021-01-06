@@ -6,7 +6,7 @@
   "dependencies": {
     "@react-navigation/native": "^5.5.1",
     "@types/react-native": "^0.62.13",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "expo": "^37.0.12",
     "react": "^16.13.1",
     "react-native": "^0.62.2",
